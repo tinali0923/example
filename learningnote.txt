@@ -1,0 +1,8 @@
+using aws to create an instance:
+        1) cloud computing enables us to have access to fast computing power by renting
+        2) when we are choosing instance, we need to weigh the trade off between computing power (cpu, memory, etc) and money that we pay.
+        3)
+git hub commands:
+
+linux command system:
+
